@@ -1,0 +1,53 @@
+E:\dbms mini project\dbms mini project\bin\Debug\dbms mini project.exe
+E:\dbms mini project\dbms mini project\bin\Debug\dbms mini project.pdb
+E:\dbms mini project\dbms mini project\obj\Debug\dbms mini project.csprojAssemblyReference.cache
+E:\dbms mini project\dbms mini project\obj\Debug\dbms_mini_project.Form1.resources
+E:\dbms mini project\dbms mini project\obj\Debug\dbms_mini_project.Properties.Resources.resources
+E:\dbms mini project\dbms mini project\obj\Debug\dbms mini project.csproj.GenerateResource.cache
+E:\dbms mini project\dbms mini project\obj\Debug\dbms mini project.csproj.CoreCompileInputs.cache
+E:\dbms mini project\dbms mini project\obj\Debug\dbms mini project.exe
+E:\dbms mini project\dbms mini project\obj\Debug\dbms mini project.pdb
+E:\dbms mini project\dbms mini project\bin\Debug\Database3.mdf
+E:\dbms mini project\dbms mini project\bin\Debug\Database3_log.ldf
+E:\dbms mini project\dbms mini project\obj\Debug\dbms_mini_project.appbody.resources
+E:\dbms mini project\dbms mini project\obj\Debug\dbms_mini_project.about.resources
+E:\dbms mini project\dbms mini project\obj\Debug\dbms_mini_project.aboutUserControl.resources
+E:\dbms mini project\dbms mini project\obj\Debug\dbms_mini_project.addUserControl.resources
+E:\dbms mini project\dbms mini project\obj\Debug\dbms_mini_project.returnUserControl.resources
+E:\dbms mini project\dbms mini project\bin\Debug\dbms mini project.exe.config
+E:\dbms mini project\dbms mini project\bin\Debug\dbms mini project.exe.manifest
+E:\dbms mini project\dbms mini project\bin\Debug\dbms mini project.application
+E:\dbms mini project\dbms mini project\obj\Debug\dbms mini project.TrustInfo.xml
+E:\dbms mini project\dbms mini project\obj\Debug\dbms mini project.exe.manifest
+E:\dbms mini project\dbms mini project\obj\Debug\dbms mini project.application
+E:\dbms mini project\dbms mini project\obj\Debug\dbms_mini_project.addstudentUserControl1.resources
+E:\dbms mini project\dbms mini project\obj\Debug\dbms_mini_project.issueUserControl.resources
+E:\dbms mini project\dbms mini project\bin\Debug\SQLite.NET.dll
+E:\dbms mini project\dbms mini project\obj\Debug\dbms mini project.csproj.CopyComplete
+E:\dbms mini project - Copy\dbms mini project\bin\Debug\Database3.mdf
+E:\dbms mini project - Copy\dbms mini project\bin\Debug\Database3_log.ldf
+E:\dbms mini project - Copy\dbms mini project\bin\Debug\dbms mini project.exe.config
+E:\dbms mini project - Copy\dbms mini project\bin\Debug\dbms mini project.exe.manifest
+E:\dbms mini project - Copy\dbms mini project\bin\Debug\dbms mini project.application
+E:\dbms mini project - Copy\dbms mini project\bin\Debug\dbms mini project.exe
+E:\dbms mini project - Copy\dbms mini project\bin\Debug\dbms mini project.pdb
+E:\dbms mini project - Copy\dbms mini project\bin\Debug\SQLite.NET.dll
+E:\dbms mini project - Copy\dbms mini project\obj\Debug\dbms mini project.csprojAssemblyReference.cache
+E:\dbms mini project - Copy\dbms mini project\obj\Debug\dbms_mini_project.about.resources
+E:\dbms mini project - Copy\dbms mini project\obj\Debug\dbms_mini_project.aboutUserControl.resources
+E:\dbms mini project - Copy\dbms mini project\obj\Debug\dbms_mini_project.addstudentUserControl1.resources
+E:\dbms mini project - Copy\dbms mini project\obj\Debug\dbms_mini_project.addUserControl.resources
+E:\dbms mini project - Copy\dbms mini project\obj\Debug\dbms_mini_project.appbody.resources
+E:\dbms mini project - Copy\dbms mini project\obj\Debug\dbms_mini_project.Form1.resources
+E:\dbms mini project - Copy\dbms mini project\obj\Debug\dbms_mini_project.issueUserControl.resources
+E:\dbms mini project - Copy\dbms mini project\obj\Debug\dbms_mini_project.Properties.Resources.resources
+E:\dbms mini project - Copy\dbms mini project\obj\Debug\dbms_mini_project.returnUserControl.resources
+E:\dbms mini project - Copy\dbms mini project\obj\Debug\dbms mini project.csproj.GenerateResource.cache
+E:\dbms mini project - Copy\dbms mini project\obj\Debug\dbms mini project.csproj.CoreCompileInputs.cache
+E:\dbms mini project - Copy\dbms mini project\obj\Debug\dbms mini project.TrustInfo.xml
+E:\dbms mini project - Copy\dbms mini project\obj\Debug\dbms mini project.exe.manifest
+E:\dbms mini project - Copy\dbms mini project\obj\Debug\dbms mini project.application
+E:\dbms mini project - Copy\dbms mini project\obj\Debug\dbms mini project.csproj.CopyComplete
+E:\dbms mini project - Copy\dbms mini project\obj\Debug\dbms mini project.exe
+E:\dbms mini project - Copy\dbms mini project\obj\Debug\dbms mini project.pdb
+E:\dbms mini project - Copy\dbms mini project\obj\Debug\dbms_mini_project.Form2.resources

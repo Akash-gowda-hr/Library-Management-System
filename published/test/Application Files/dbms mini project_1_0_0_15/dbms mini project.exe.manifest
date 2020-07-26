@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="dbms mini project.exe" version="1.0.0.15" publicKeyToken="d6523dd43ca65faa" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="dbms mini project" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="dbms mini project.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+             If you want to change the Windows User Account Control level replace the 
+             requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel element will disable file and registry virtualization. 
+            Remove this element if your application requires this virtualization for backwards
+            compatibility.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="dbms mini project.exe" size="411104">
+      <assemblyIdentity name="dbms mini project" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>J1wtcx8cErObn0Vzuu5TjDKv1asQiEe68ftTYyto1Z4=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SQLite.NET.dll" size="65536">
+      <assemblyIdentity name="SQLite.NET" version="0.21.1869.3794" publicKeyToken="C273BD375E695F9C" language="neutral" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>ykfpR7+n4CGprKOuG2seaVwJl8Q5D6cfLEvQX4o8qPg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Database3.mdf" size="8388608" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>FaDUOfiNe82bEO5WdqTNR+b775VOkX687EpNXocV5Zo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Database3_log.ldf" size="8388608" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>NxRbQHs2yLKxLV4XNQ1Zxsa3/hzXvXX3iJ8G6UFdFwc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="dbms mini project.exe.config" size="953">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>wDLwhmFq4LrlAWOkh1UBeaXSFQTWFw4SXSTDpNnkjl4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of the Windows versions that this application has been tested on
+           and is designed to work with. Uncomment the appropriate elements
+           and Windows will automatically select the most compatible environment. -->
+      <!-- Windows Vista -->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}" />-->
+      <!-- Windows 7 -->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}" />-->
+      <!-- Windows 8 -->
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}" />-->
+      <!-- Windows 8.1 -->
+      <!--<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}" />-->
+      <!-- Windows 10 -->
+      <!--<supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}" />-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=DESKTOP-49D9R7P\akash" issuerKeyHash="90ab802ddeb641574076b142ae4f2f6162ac1005" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>5RBtafMstb+//0AFdksc1mC28IONOXvCrPKGIjoJ8cM=</DigestValue></Reference></SignedInfo><SignatureValue>ZpU9lCo02m+5uG3Ex1MCDYhy1v3CvWpI81M69uez1RXFZYnEROiRPOMPmuo5zmrLnbiBt1HRMeg7zJvKnz0ImfgjTV85M058GdGhO1jLQbeXSop9lDPxnv58gdadTjqlsr5BSZjXsqQdqkEJAEvSROI1+agMKYcDams9OZKMQDg=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>wHPJ6Y64B28y7O45AGw29iCEK2nbBm0Qoyp21Q6crSM1kj4PoMCbC6WuFYghzbZIypTytZD34h28hytNB+3a42wHkxf5ycmIcF74V07WgwfArGU5Ebp78r9R1SQbfkK7yEoD0UIquAAtA4Qq2RL0LLZHQn1KFBeifnZmkqiCpS0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="c3f1093a2286f2acc27b398d83f0b660d61c4b760540ffbfbfb52cf3696d10e5" Description="" Url=""><as:assemblyIdentity name="dbms mini project.exe" version="1.0.0.15" publicKeyToken="d6523dd43ca65faa" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-49D9R7P\akash</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>b0hGruyZx9mhrVt+W624XzYOcBKQuG0BMdTnsPiQah8=</DigestValue></Reference></SignedInfo><SignatureValue>rTpTLWtgG/9NNuovLeq2kdVkVpoHlpRJGDWliCM5TF57mXu0QkVU/kgN6OB0CNof+tMsTL3s/UvwP6z1qg5sFaoiQk8KJq3kwJS1PhCjvuOX6VZbaVi/gy6RW78Fm9Xw4vFmoWpTHv/+2uqoZLJVp9mDEobrYe+BaxIIwOd/1Is=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>wHPJ6Y64B28y7O45AGw29iCEK2nbBm0Qoyp21Q6crSM1kj4PoMCbC6WuFYghzbZIypTytZD34h28hytNB+3a42wHkxf5ycmIcF74V07WgwfArGU5Ebp78r9R1SQbfkK7yEoD0UIquAAtA4Qq2RL0LLZHQn1KFBeifnZmkqiCpS0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQH7wUJNRRDIZMgRwQlO7YezANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtADQAOQBEADkAUgA3AFAAXABhAGsAYQBzAGgwHhcNMTkxMTAxMDgxMTQ4WhcNMjAxMDMxMTQxMTQ4WjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtADQAOQBEADkAUgA3AFAAXABhAGsAYQBzAGgwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMBzyemOuAdvMuzuOQBsNvYghCtp2wZtEKMqdtUOnK0jNZI+D6DAmwulrhWIIc22SMqU8rWQ9+IdvIcrTQft2uNsB5MX+cnJiHBe+FdO1oMHwKxlORG6e/K/UdUkG35Cu8hKA9FCKrgALQOEKtkS9Cy2R0J9ShQXon52ZpKogqUtAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAn/dmb8bUnj1qc1l+RiKu03qxQxS6JZp7MBT2W13vY3W1gT21k9LH6CtXhPU8F7NGuc63pn8ornXPB6ZJ6T3imOWvpXTU3JmOQ9MsKNWTJl42/4NXkUg2QDvEHkDqNrkAsKg5SENdNF/VAhWdgiSzwfzLdkBuMDDDe6gYX7E9srI=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
